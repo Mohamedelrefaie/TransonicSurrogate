@@ -1,2 +1,23 @@
 # TransonicSurrogate
 Surrogate Modeling of the Aerodynamic Performance for Transonic Regime
+
+## Overview
+This repository presents an in-depth exploration of machine learning models for surrogate modeling of airfoil aerodynamics in the transonic regime. Our project focuses on using ensemble learning methods and deep learning techniques to predict aerodynamic coefficients accurately.
+
+## Models and Dataset
+We utilize various models including Random Forest, Gradient Boosting, Support Vector Machines, and Neural Networks. The dataset comprises eight transonic airfoils, tested under a range of AoA and Mach numbers, resulting in over 1,300 data points.
+
+## Results and Analysis
+Our findings indicate that these models can predict aerodynamic coefficients with high accuracy, achieving an R2 of 99.6% for unseen conditions. Comparative analysis and performance metrics of each model are provided.
+
+## Repository Structure
+Data/: Contains the dataset of airfoil characteristics and flow conditions.
+Models/: Python scripts and Jupyter notebooks for each ML model.
+Results/: Performance evaluations, plots, and comparative analyses.
+Figures/: Visual representations including scatter plots of predictions vs. actual values, feature importance graphs, and density estimations.
+
+## Usage and Contribution
+Instructions on how to use the scripts, train models, and analyze results are included. Contributions to enhance model performance or extend dataset are welcome.
+
+## Collaborators and Acknowledgments
+Special thanks to the research team from Texas A&M University for their invaluable input and guidance.
