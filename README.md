@@ -6,7 +6,8 @@ This repository presents an in-depth exploration of machine learning models for 
 
 ## Models and Dataset
 We utilize various models including Random Forest, Gradient Boosting, Support Vector Machines, and Neural Networks. The dataset comprises eight transonic airfoils (RAE2822,
-RAE5212, NACA0012, NACA2412, NACA4412, NACA23012, NACA24112, and NACA25112), tested under a range of AoA and Mach numbers, resulting in 1,362 high-fidelity RANS simulations.
+RAE5212, NACA0012, NACA2412, NACA4412, NACA23012, NACA24112, and NACA25112), tested under a range of AoA and Mach numbers, resulting in 1,362 high-fidelity CFD simulations.
+Solver: (rhoCentralFoam) Density-based compressible flow solver based on central-upwind schemes of Kurganov and Tadmor
 
 ## Results and Analysis
 Our findings indicate that these models can predict aerodynamic coefficients with high accuracy, achieving an R2 of 99.6% for unseen conditions. Comparative analysis and performance metrics of each model are provided.
