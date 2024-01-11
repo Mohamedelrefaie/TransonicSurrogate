@@ -1,6 +1,8 @@
 # TransonicSurrogate
 Surrogate Modeling of the Aerodynamic Performance for Transonic Regime
 
+Our Paper: https://arc.aiaa.org/doi/abs/10.2514/6.2024-2220
+
 Dataset available at: https://drive.google.com/drive/folders/1bBR2myjO1u1LDgk2miiC36WpdbGn4cvU?usp=drive_link
 
 ## Overview
