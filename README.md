@@ -1,4 +1,4 @@
-![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/a4c595af-b8dd-4a1e-99a6-b08ab74914d6)# TransonicSurrogate
+# TransonicSurrogate
 Surrogate Modeling of the Aerodynamic Performance for Transonic Regime
 
 Our Paper: https://arc.aiaa.org/doi/abs/10.2514/6.2024-2220
@@ -30,6 +30,15 @@ Split the data into training (60%), test (20%), and validation sets (20%).
 
 ![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/affcd048-148e-4dcb-8056-7ee87d90bbbe)
 
+Performance comparison of different models on 𝐶𝑙 
+
+![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/535b9848-667c-4b18-afed-8df2c2240b31)
+
+Performance comparison of different models on 𝐶𝑚 
+
+![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/4b01816b-1d5f-44a6-98b1-3fae928f6d75)
+
+
 ## Repository Structure
 + Data: Contains the dataset of airfoil characteristics and flow conditions.
 + Models: Python scripts and Jupyter notebooks for each ML model.
@@ -37,7 +46,7 @@ Split the data into training (60%), test (20%), and validation sets (20%).
 + Figures: Visual representations including scatter plots of predictions vs. actual values, feature importance graphs, and density estimations.
 
 ## Usage and Contribution
-Instructions on how to use the scripts, train models, and analyze results are included. Contributions to enhance model performance or extend dataset are welcome.
+Instructions on how to use the scripts, train models, and analyze results are included. Contributions to enhance model performance or extend the dataset are welcome.
 
 ## Collaborators and Acknowledgments
 Special thanks to the research team from Texas A&M University for their invaluable input and guidance.
