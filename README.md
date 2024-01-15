@@ -1,4 +1,4 @@
-# TransonicSurrogate
+![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/a4c595af-b8dd-4a1e-99a6-b08ab74914d6)# TransonicSurrogate
 Surrogate Modeling of the Aerodynamic Performance for Transonic Regime
 
 Our Paper: https://arc.aiaa.org/doi/abs/10.2514/6.2024-2220
@@ -22,7 +22,11 @@ Solver: (rhoCentralFoam) Density-based compressible flow solver based on central
 ## Results and Analysis
 Our findings indicate that these models can predict aerodynamic coefficients with high accuracy, achieving an R2 of 99.6% for unseen conditions. Comparative analysis and performance metrics of each model are provided.
 
+The contours demonstrate the efficient capture of the shockwave over the airfoil in our data generation results.
 ![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/515eb365-57e1-47c9-bcbb-991b6e106803)
+
+Split the data into training (60%), test (20%), and validation sets (20%).
+![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/a5ba8797-0f36-4b80-87cf-fb30aa31f9cc)
 
 ![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/affcd048-148e-4dcb-8056-7ee87d90bbbe)
 
