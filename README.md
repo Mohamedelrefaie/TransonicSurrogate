@@ -32,7 +32,7 @@ Split the data into training (60%), test (20%), and validation sets (20%).
 
 Performance comparison of different models on 𝐶𝑙 
 
-![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/535b9848-667c-4b18-afed-8df2c2240b31)
+![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/9d57759e-9a2f-49d7-a4d6-b36ff3a6bec4)
 
 Performance comparison of different models on 𝐶𝑚 
 
