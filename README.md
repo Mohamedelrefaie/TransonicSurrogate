@@ -24,6 +24,8 @@ Our findings indicate that these models can predict aerodynamic coefficients wit
 
 ![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/515eb365-57e1-47c9-bcbb-991b6e106803)
 
+![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/affcd048-148e-4dcb-8056-7ee87d90bbbe)
+
 ## Repository Structure
 + Data: Contains the dataset of airfoil characteristics and flow conditions.
 + Models: Python scripts and Jupyter notebooks for each ML model.
