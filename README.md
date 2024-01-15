@@ -50,3 +50,17 @@ Instructions on how to use the scripts, train models, and analyze results are in
 
 ## Collaborators and Acknowledgments
 Special thanks to the research team from Texas A&M University for their invaluable input and guidance.
+
+## Citation
+
+```bibtex
+@inbook{doi:10.2514/6.2024-2220,
+  author = {Mohamed Elrefaie and Tarek Ayman and Mayar Elrefaie and Eman Sayed and Mahmoud Ayyad and Mohamed M. AbdelRahman},
+  title = {Surrogate Modeling of the Aerodynamic Performance for Airfoils in Transonic Regime},
+  booktitle = {AIAA SCITECH 2024 Forum},
+  chapter = {},
+  pages = {},
+  doi = {10.2514/6.2024-2220},
+  URL = {https://arc.aiaa.org/doi/abs/10.2514/6.2024-2220},
+  eprint = {https://arc.aiaa.org/doi/pdf/10.2514/6.2024-2220},
+  abstract = {Advancements in generative AI models have notably enhanced the automation of 3D shape generation, presenting transformative possibilities in the design of wings for aerospace applications. The optimization of such shapes relies on a large number of numerical simulations, which pose a computational challenge in the preliminary design stages. In this paper, we compare different machine learning models for surrogate modeling of the aerodynamic performance of airfoils for the transonic regime. We propose a new representation of the airfoils by combining geometric and aerodynamic features to comprehensively characterize the airfoil and its operating flight conditions. A training dataset that includes eight different transonic airfoils was generated, where we examined each airfoil under various operational flight conditions, encompassing a wide range of Angle of Attack (AoA) and freestream Mach numbers (\$M\_{\infty}\$). This resulted in a dataset comprising \$1,362\$ data points. The surrogate models employed in our study are primarily ensemble learning methods, including Random Forest, Gradient Boosting, and Support Vector Machines, complemented by deep learning techniques. We conduct a comparative analysis of these models to evaluate their efficacy in predicting aerodynamic coefficients. Our experiments show that different surrogate models can accurately and efficiently predict aerodynamic coefficients with an \$R^2\$ of \$99.6\\%\$ for unseen flight conditions. The dataset and code used in our study are accessible to the public at: [https://github.com/Mohamedelrefaie/TransonicSurrogate](https://github.com/Mohamedelrefaie/TransonicSurrogate)}
