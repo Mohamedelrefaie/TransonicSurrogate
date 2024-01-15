@@ -52,7 +52,7 @@ Instructions on how to use the scripts, train models, and analyze results are in
 Special thanks to the research team from Texas A&M University for their invaluable input and guidance.
 
 ## Citation
-
+If you find the approach useful, please cite our paper via:
 ```bibtex
 @inbook{doi:10.2514/6.2024-2220,
   author = {Mohamed Elrefaie and Tarek Ayman and Mayar Elrefaie and Eman Sayed and Mahmoud Ayyad and Mohamed M. AbdelRahman},
