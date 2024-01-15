@@ -22,6 +22,8 @@ Solver: (rhoCentralFoam) Density-based compressible flow solver based on central
 ## Results and Analysis
 Our findings indicate that these models can predict aerodynamic coefficients with high accuracy, achieving an R2 of 99.6% for unseen conditions. Comparative analysis and performance metrics of each model are provided.
 
+![image](https://github.com/Mohamedelrefaie/TransonicSurrogate/assets/99045424/515eb365-57e1-47c9-bcbb-991b6e106803)
+
 ## Repository Structure
 + Data: Contains the dataset of airfoil characteristics and flow conditions.
 + Models: Python scripts and Jupyter notebooks for each ML model.
