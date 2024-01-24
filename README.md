@@ -62,4 +62,4 @@ If you find the approach useful, please cite our paper via:
   pages = {},
   doi = {10.2514/6.2024-2220},
   URL = {https://arc.aiaa.org/doi/abs/10.2514/6.2024-2220},
-  eprint = {https://arc.aiaa.org/doi/pdf/10.2514/6.2024-2220}
+  eprint = {https://arc.aiaa.org/doi/pdf/10.2514/6.2024-2220}}
